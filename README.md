@@ -1,8 +1,9 @@
 # monkey_test
 
 monkey 介绍
-{**以下是 monkey测试小工具 平台说明，您可以替换此简介gitee
-使用于monkey 对app进行monkey测试
+把monkey 工具进行了一个小封装，在封装之前还以为能实现什么牛逼的功能呢，
+
+
 #### 软件架构
 common为一些公共文件，monkeycase 为monkey测试用例
 
